@@ -1,4 +1,4 @@
-# /bin/bash
+#!/bin/bash
 # $1 is time limit for the session, $2 is the CCG used for the session, $3 is the name suffix used to name the logs
 # file structure should be output/nameSuffix/sessionTime/type of command/
 measure(){
